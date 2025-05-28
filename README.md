@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kosala-dev/Kosala-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ffcc&height=200&section=header&text=Kosala%20Madushan&fontSize=40&fontColor=ffffff" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Code%2C+create%2C+repeat.;I+build+things+that+matter.;C%23+%7C+MySQL+%7C+React+%7C+Flutter" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌌 Who Am I?
+
+```yaml
+Name: Kosala Madushan Weerakkodi
+Alias: The Div Engineer
+Status: Bsc.IT Undergraduate 🧑‍🎓
+Currently: Exploring the balance between beauty and logic
+Dream: Building digital bridges across real-world gaps
+
+💻 Languages:        Java | C++ | C# | JS | SQL | PHP | C
+🧰 Frameworks/Libs:  .NET | Node.js
+🛢️ Databases:        MySQL | MongoDB
+🎨 Web:              HTML5 | CSS3 |
+🧪 Tools:            Git | VS Code | Postman | Figma | Firebase
+
+🔗 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="www.linkedin.com/in/
+kosala-madhushan-789242365"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:6e00ff&height=150&section=footer"/> </div> ```
