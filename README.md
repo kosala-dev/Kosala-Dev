@@ -26,6 +26,7 @@ Dream: Building digital bridges across real-world gaps
 🧪 Tools:            Git | VS Code | Postman | Figma | Firebase
 
 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kosala-madhushan-789242365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
