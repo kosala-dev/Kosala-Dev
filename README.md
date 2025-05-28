@@ -32,7 +32,4 @@ Dream: Building digital bridges across real-world gaps
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:6e00ff&height=150&section=footer" />
-</div>
 
