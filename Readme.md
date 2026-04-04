@@ -27,6 +27,7 @@ Dream: Building digital bridges across real-world gaps
 ---
 
 ## 📢 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFC2?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-theta-ashy-12.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosala-madhushan-789242365/)
 
