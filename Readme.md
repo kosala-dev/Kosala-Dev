@@ -13,15 +13,15 @@
 ```yaml
 Name: Kosala Madushan Weerakkodi
 Alias: The Div Engineer
-Status: Bsc.IT Undergraduate 🧑‍🎓
+Status: BSc(Hons) in IT Undergraduate 🧑‍🎓
 Currently: Exploring the balance between beauty and logic
 Dream: Building digital bridges across real-world gaps
 
-💻 Languages:        Java | C++ | C# | JS | SQL | PHP | C  
-🪰 Frameworks/Libs:  .NET | Node.js  
+💻 Languages:        Java | C++ | C# | JS | SQL | PHP | C | Assembly
+🪰 Frameworks/Libs:  .NET | Node.js | JADE
 📂 Databases:        MySQL | MongoDB  
 🎨 Web:              HTML5 | CSS3  
-🧪 Tools:            Git | VS Code | Postman | Figma | Firebase
+🧪 Tools:            Git | VS Code | Postman | Figma | Firebase | Vercel | Render
 ```
 
 ---
